@@ -1,4 +1,4 @@
-# Curis
+# Curis-Medical-AI
 Curis is a Streamlit AI platform with LLMs and an integrated robotic assistant for medical injury analysis. Upload injury images for automated diagnostics, treatment recommendations, and reports. The robot delivers real-time guidance and vocalizes insights. Powered by CrewAI, LangChain &amp; Google Generative A, Curis lets clinicians and researchers:
 
 - **Injury Analysis:** Upload injury photos for image-based feature extraction, LLM-driven interpretation, and real-time feedback from the onboard robot.  
